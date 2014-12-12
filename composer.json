@@ -1,6 +1,6 @@
 
 {
-    "name": "sdag/drupal",
+    "name": "webflo/drupal",
     "replace": {
         "drupal/drupal": "*",
         "drupal/composer_manager": "*",
