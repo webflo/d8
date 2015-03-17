@@ -1,8 +1,7 @@
 
 {
-    "name": "webflo/drupal",
+    "name": "drupal/drupal",
     "replace": {
-        "drupal/drupal": "*",
         "drupal/composer_manager": "*",
         
         "drupal/action": "*",
